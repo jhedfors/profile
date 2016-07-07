@@ -26,3 +26,14 @@ div.links{
   padding: 5px;
   border-radius: 5px
 }
+.links a{
+  display: inline-block;
+  width: 107px;
+}
+
+img.github{
+  background: white;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
